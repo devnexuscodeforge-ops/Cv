@@ -1,0 +1,24 @@
+body {
+                    background-color: darkcyan;
+}
+
+hr {
+                    background-color: black;
+                    border-style: none;
+                    border-top-style: dotted;
+                    border-color: black;
+                    border-width: 5px;
+                    width: 20%;
+}
+
+h1 {
+                    color: darkgray;
+}
+
+h2 {
+                    color: darkgray;
+}
+
+h3 {
+                    color: darkgray;
+}
